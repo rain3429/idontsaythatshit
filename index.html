@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>我好餓 hungry.</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <p style="width:300px;height:100px;text-align:center;line-height:100px;">？</p>
+    <script>
+      const para = document.querySelector('p');
+      para.addEventListener('click', updateName);
+      function updateName() {
+        let name = prompt('Enter a new name');
+        para.textContent = name + ' 吃飯沒？';
+      }
+    </script>
+  </body>
+</html>
