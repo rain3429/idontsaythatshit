@@ -53,14 +53,14 @@
     float: center;
 
     height: 400px;
-    width: 800px;
+    width: 500px;
 
     position: absolute;
     left: 50%;
     top: 50%;
 
     margin-top: -200px;
-    margin-left: -400px;
+    margin-left: -250px;
   }
 
   .view:after{
