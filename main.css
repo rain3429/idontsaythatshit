@@ -38,7 +38,7 @@
   }
 
   body{
-    background-color: #124123;
+    background-color: #292C34;
   }
 
   .bg{
@@ -46,14 +46,14 @@
     text-align: center;
     float: center;
 
-    height: 400px;
+    height: 800px;
     width: 360px;
 
     position: absolute;
     left: 50%;
     top: 50%;
 
-    margin-top: -200px;
+    margin-top: -400px;
     margin-left: -180px;
   }
 
