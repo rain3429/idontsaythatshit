@@ -46,14 +46,14 @@
     text-align: center;
     float: center;
 
-    height: 800px;
+    height: 500px;
     width: 360px;
 
     position: absolute;
     left: 50%;
     top: 50%;
 
-    margin-top: -400px;
+    margin-top: -250px;
     margin-left: -180px;
   }
 
