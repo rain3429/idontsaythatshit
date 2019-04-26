@@ -45,19 +45,22 @@
   }
 
   .bg{
-    line-height: 500px;
+    background-color: #999999;
+
+    text-align: center;
+    line-height: 400px;
     font-size: 40px;
     float: center;
 
-    height: 500px;
-    width: 360px;
+    height: 400px;
+    width: 800px;
 
     position: absolute;
     left: 50%;
     top: 50%;
 
-    margin-top: -250px;
-    margin-left: -180px;
+    margin-top: -200px;
+    margin-left: -400px;
   }
 
   .view:after{
