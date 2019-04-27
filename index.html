@@ -9,7 +9,16 @@
   </head>
 
   <body>
-    <div class="bg">我們與餓的距離</div>
+    <video autoplay muted loop id="myVideo">
+      <source src="video/backgroundVideo.mp4" type="video/mp4">
+    </video>
+
+    <div class="bg">餓</div>
+
+    <script>
+      var video = document.getElementById("myVideo");
+      video.play();
+    </script>
   </body>
 
 </html>
