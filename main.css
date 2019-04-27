@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+
 /* For desktop: */
 @media only screen and (min-width: 768px){
   *{
@@ -46,6 +48,8 @@
 
   .bg{
     background-color: #999999;
+
+    font-family: 'Noto Sans TC', sans-serif;
 
     text-align: center;
     line-height: 400px;
