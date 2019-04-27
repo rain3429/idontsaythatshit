@@ -7,18 +7,26 @@
   }
 
   body{
-    background-color: #292C34;
+    background-color: black;
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  #myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
   }
 
   .bg{
-    background-color: #999999;
+    background-color: rgba(200, 200, 200, 0.3);
 
     font-family: 'Noto Sans TC', sans-serif;
     letter-spacing: 8px;
     text-align: center;
     line-height: 400px;
     font-size: 60px;
-    float: center;
 
     height: 400px;
     width: 800px;
@@ -45,28 +53,36 @@
   }
 
   body{
-    background-color: #292C34;
+    background-color: black;
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  #myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
   }
 
   .bg{
-    background-color: #999999;
+    background-color: rgba(200, 200, 200, 0.3);
 
     font-family: 'Noto Sans TC', sans-serif;
     letter-spacing: 6px;
     text-align: center;
     line-height: 400px;
     font-size: 25px;
-    float: center;
 
     height: 400px;
-    width: 300px;
+    width: 360px;
 
     position: absolute;
     left: 50%;
     top: 50%;
 
     margin-top: -200px;
-    margin-left: -150px;
+    margin-left: -180px;
   }
 
   .view:after{
