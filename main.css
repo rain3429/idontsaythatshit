@@ -7,19 +7,12 @@
   }
 
   body{
-    background-color: black;
+    background-image: url(background/bgView.jpg);
+    background-size: cover;
     font-family: 'Noto Sans TC', sans-serif;
   }
 
-  #myVideo{
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  .bg{
+  .textView{
     background-color: rgba(200, 200, 200, 0.3);
 
     font-family: 'Noto Sans TC', sans-serif;
@@ -53,19 +46,11 @@
   }
 
   body{
-    background-color: black;
+    background-image: url(background/bgView);
     font-family: 'Noto Sans TC', sans-serif;
   }
 
-  #myVideo{
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  .bg{
+  .textView{
     background-color: rgba(200, 200, 200, 0.3);
 
     font-family: 'Noto Sans TC', sans-serif;
