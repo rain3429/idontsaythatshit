@@ -7,13 +7,13 @@
   }
 
   body{
-    background-image: url(background/bgView.jpg);
+    background-image: url('https://i.imgur.com/dTeDMnO.jpg');
     background-size: cover;
     font-family: 'Noto Sans TC', sans-serif;
   }
 
   .textView{
-    background-color: rgba(200, 200, 200, 0.3);
+    background-color: rgba(240, 240, 240, 0.5);
 
     font-family: 'Noto Sans TC', sans-serif;
     letter-spacing: 8px;
@@ -25,7 +25,7 @@
     width: 800px;
 
     position: absolute;
-    left: 50%;
+    left: 30%;
     top: 50%;
 
     margin-top: -200px;
